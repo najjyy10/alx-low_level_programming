@@ -1,6 +1,6 @@
 /*
- * File: 3-print_alphABET
- * Author: najma
+ * File: 3-print_alphabets.c
+ * Auth: Najma
  */
 
 #include <stdio.h>
@@ -23,4 +23,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
+}
